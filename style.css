@@ -1,0 +1,27 @@
+
+#profile-container {
+    max-width: 800px;
+    margin: auto;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+}
+#background-banner {
+    height: 200px;
+    background-color: #87CEEB;
+}
+#profile-picture {
+    width: 100px;
+    height: 100px;
+    background-color: #999;
+    border-radius: 50%;
+    margin: -50px auto 10px;
+    border: 4px solid #fff;
+}
+#game-canvas {
+    border-top: 1px solid #ccc;
+    background-color: #000;
+    margin-top: 20px;
+}
